@@ -1,0 +1,7 @@
+aiosqlite
+cachetools
+discord
+discord.py
+tqdm
+asyncio
+typeguard==2.13.3

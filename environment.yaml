@@ -1,0 +1,13 @@
+name: irb
+channels:
+  - pip
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pip:
+    - aiosqlite
+    - cachetools
+    - discord.py
+    - tqdm
+    - typeguard==2.13.3
