@@ -5,9 +5,9 @@ Functioneaza pe sistem cu python 3.8.5
 
 Pentru running pe calculatorul meu de la munca:
 
-source /vol/research/space/anaconda3/etc/profile.d/conda.sh
-conda activate ldm2
-python main.py
+'source /vol/research/space/anaconda3/etc/profile.d/conda.sh'
+'conda activate ldm2'
+'python main.py'
 
 # Invite-Role Bot
 
